@@ -1,0 +1,62 @@
+Q1. Create Employee structure
+    struct Date{
+        int day,
+        int month,
+        int year    
+    } 
+    struct Address{
+        int flatNo,
+        char City[100],
+        char State[100]
+        
+    }  
+     struct Employee{
+        char name[100],
+        int EmpId ,
+        struct Date DOB
+        struct Address add
+    }.
+
+
+Store Employee record in above structure and display it. Use Memory allocation method to allocate memory to structure.
+
+
+
+Q2. Try the following code
+union A
+{
+int x;
+int y;
+char ch;
+};
+union A a1;
+a1.x=0x10;
+a1.y=0x1121; print a1.x, a1.ch
+Calculate size of union , offset of each member
+
+Q3. Analyse the following code
+union A
+{
+int x;
+float y;
+double z;
+int arr[2];
+}a1;
+a1.y=6.25f;
+printf(“x=%x\n”,a1.x);
+a1.z=0.15625;;
+printf(“%x%x\n”,a1.arr[1],a1.arr[0]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+

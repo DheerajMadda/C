@@ -1,0 +1,20 @@
+Q1. Define your own iterative functions for
+(using array notation as well as exclusively using pointers)
+a) finding length
+b) concatenation
+c) comparision
+d) reversing in memory
+e) finding first occurrence of given character
+f)finding last occurrence of given character
+h)counting no.of occurences of a given character
+i) finding a substring in a main string
+
+
+Q2. Study about various functions which can convert from string to
+different types
+atoi, atol, atoll, atof
+strtoimax, strtol, strtoul, strtof, strtod etc
+man -k strto – for more listing
+
+Q3. Implement your own function to convert a string having only digits
+into an integer and vice versa

@@ -1,0 +1,48 @@
+Q1.Write a Calculator program that will perform following operations
+-Sum
+-Substraction
+-Division
+-Multiplication
+-Mod
+
+Q2.Perform above operation for float variables
+
+Q3.Take 3 digit number and print its digits seperatly. e.g Input: 224
+Output: 
+2
+2
+4
+
+Q4.Write a program, which reads two numbers and find the sum of product of digits of the number. 
+If Numbers are 224 and 37 then Answer is 2*3+2*7+2*3+2*7+4*3+4*7=80 
+
+Q5.Write a program, which reads two numbers and find the product of product of digits
+If Numbers are 224 and 37 then Answer is 2*3*2*7*2*3*2*7*4*3*4*7
+
+Q6.Write a program to swap the values of variable with third variable without 
+third variable
+
+Q7.Write a program to accept marks of five subjects from the user and calculate
+ their average. 
+
+Q8.Write a program to calculate Net Salary of an employee. Accept Basic Salary (BS)
+from the user.Use float variable.        
+HRA is 20% of BS, DA is 40% of BS, PF is 10% of GS
+Gross Salary is BS + HRA + DA
+Net Salary = Gross Salary – PF
+
+Q9.Write a program which reads 4 numbers a, b, c and p. Let f(x)=ax²+bx+c. 
+The Program outputs the value of f(p) e.g 4 3 1 2 out put 4(2)²+3(2)+1=23 
+
+Q10.Write a program to calculate the nearest leap year of the given year.
+
+Q11.Write a program to find the decade of the given year.Consider year between 
+1901 to 1999
+e.g 90s means 1990 to 1999
+    80s means 1980 to 1989
+
+Q12.Write a program to find the century of the given year.
+Consider year is of only 4 digit
+e.g 2019 is of 21 century
+
+

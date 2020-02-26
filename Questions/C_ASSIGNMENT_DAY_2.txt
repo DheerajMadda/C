@@ -1,0 +1,23 @@
+
+Q1. Write a program to print “Hello World” using escape sequences: \n, \t, \r, \.  Observe the difference in the output.
+
+Q2  Write a program to accept marks of five subjects from the user and calculate their average. Use implicit and explicit type conversion.
+Accept a character from a user. It may be alphabet, digit or any other character. Print its ASCII value.
+
+Q3.Implement a choice based arithmetic calculator (1-add,2-sub,3-
+mul,4-div etc), by if else ladder.
+
+Q4. Implement income tax calculator by considering best possible
+parameters ( gender, senior citizen benefits, exemption for investment
+and other possible consideration). Make use of if-else ladder.
+
+Q5. FInd the highest number in the given 4 numbers
+
+Q6. Write a C program to find out given character is vowel or not.
+
+Q7. Write a C program to find out given year is leap year or not.
+
+Q8.Write a program that accepts input of a number of seconds, 
+validates it and outputs the equivalent number of hours, minutes and seconds.
+
+Q9. Write a program that will find the highest digit in the 5 digit number.

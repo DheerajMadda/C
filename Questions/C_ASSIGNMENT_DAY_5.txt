@@ -1,0 +1,13 @@
+Q1. WAP to Reverse an array in memory
+Q2. WAP to Addition of two arrays
+
+Q3. WAP for Addition, Subtraction, Multiplication of two matrices
+Q4. WAP for Transpose of a matrix
+Q5. WAP for Trace of a matrix
+Q6. WAP for Determinant for 2x2 , 3x3 matrices
+Q7. WAP to Solving linear equations
+a1x+b1y=c1; a2x+b2y=c2
+a1x+b1y+c1z=d1; a2x+b2y+c2z=d2; a3x+b3y+c3z=d3
+Q8. WAP for Generation of identity, null matrices
+Q9. WAP for Checking whether given matrix is identity or not?
+

@@ -1,0 +1,35 @@
+Q1. Write a C program to print pascal triangle.
+
+Q2. Implement a C program to Differentiate between post, pre decrement
+operators, consider below mention scenario.
+a) k=i++, k=++i
+b) y=x++*10, y=++x*10
+c) q=p--/3, q=—p/3
+
+
+Q3. Implement a C program using formatted I/O using printf (%5d, %05d,
+%-5d,%8.2f, %.2f etc.)
+
+Q5. Implement a C program, where is a=10,b=20,c=30 evaluate the
+following
+d=++a,++b,++c,a+5;
+d=(++a,++b,++c,a+5);
+
+Q5. Implement a C program based on integer array. Implement method
+to find average, sum, min element, max element.
+
+Q6. Implement a C program for number conversions (decimal, binary,
+octal, hexadecimal).
+
+Q 7.Finding day of week based on reference date, say 1 st January 1970
+which is Thursday.
+(Hint:- calculate no.of days elapsed from reference date to given date)
+
+Use recursion
+
+Q 8.Write a program to implement display and reverse display function
+for integer array element.
+Q 9. Write a program to implement display and reverse display function
+for string.
+Q 10. Write a program to find sum of n numbers.
+Q 11. Write a program to find factorial of n.

@@ -1,0 +1,41 @@
+
+Q1. Given int a[5] = {10, 20, 30, 40, 50 };
+int *p=a, *q=*(&a+1) - 1;
+evaluate following expressions
+*p++, *++p, (*p)++, ++(*p), ++*p, *(p++), *(++p)
+*q--, *--q, --(*q), --*q,
+(*q)--, *(q--), *(--q)
+
+Q2. WAP to Convert from one type of pointer/address to other using void*
+
+Q3. WAP to Test arithmetic operation on void pointers
+
+Q4. int arr[5]; int (*parr)[5];
+parr=&arr;
+sizeof(parr), sizeof(*parr), sizeof(**parr)
+access array elements with suitable dereferencing of parr
+
+Q5. Usage of assert macro before dereferencing any pointer.
+
+Q6. Differentiate between
+const int * p;
+int const * p
+int * const p = &x;
+const int * const p = &x;
+Try *p=20, p++, (*p)++, p=&y in each case
+
+Q7. Try some nested calls
+sqrt(pow(2,abs(x))), putchar(toupper(ch)) etc
+
+Q8. Write a function to swap two variables using Pass by value, Pass by
+reference
+
+Q9. Write a single function to return sum, product of two no.s
+
+Q10. Whats wrong in this code, any fixes to the problem?
+int* test(int x)
+{
+int y=x*x;
+return &y;
+}
+
